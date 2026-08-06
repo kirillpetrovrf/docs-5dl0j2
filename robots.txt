@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-drwjp2.privatetalks.online/sitemap.xml
